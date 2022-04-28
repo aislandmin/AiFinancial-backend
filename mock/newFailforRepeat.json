@@ -1,0 +1,4 @@
+{
+    "code": 500,
+    "msg": "Failed to new product because of repeating product code!"
+  }

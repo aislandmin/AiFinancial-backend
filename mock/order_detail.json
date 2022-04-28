@@ -1,0 +1,24 @@
+{
+  "data": {
+    "id": 125,
+    "pickup_address": "35 Hollywood Ave, Toronto, ON",
+    "send_address": "2551 Pharmacy Ave, Toronto, ON",
+    "finish_time": 1625448894,
+    "cate_id": "1",
+    "item_type": "book",
+    "create_time": "2021-07-04 20:00",
+    "confirm_password": "667231",
+    "status": 2,
+    "order_status": 4, 
+    "pay_method": 1,
+    "zmoney": 14.7,
+    "point_discount": 0.1,
+    "coupon_discount": 0,
+    "booking_fee": 2,
+    "base_fare": 2,
+    "distance_surcharge": 7.8,
+    "additional_charge": 0,
+    "tax": 1,
+    "tip": 1.9
+  }
+}
